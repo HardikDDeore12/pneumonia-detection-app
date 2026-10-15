@@ -1,0 +1,8 @@
+venv/
+data/
+models/
+__pycache__/
+static/uploads/*
+static/heatmaps/*
+static/reports/*
+.DS_Store
